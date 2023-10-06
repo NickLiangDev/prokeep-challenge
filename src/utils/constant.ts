@@ -1,0 +1,1 @@
+export const LOGIN_API_URL = 'https://reqres.in/api/login';
